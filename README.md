@@ -1,11 +1,11 @@
 <p>Create a command line application for a World Rally Cross Management using Python.</p>
 <p>Features of the system</p>
-<p>ADD for adding driver details</p>
-<p>DDD for deleting driver details</p>
-<p>UDD for update driver details</p>
-<p>VCT for viewing the rally cross standings table</p>
-<p>SRR for simulating a random race</p>
-<p>VRL for viewing race table sorted according to the date</p>
-<p>STF to save the current data to a text file</p>
-<p>RFF to load data from the saved text file</p>
-<p>ESC to exit the program</p>
+ADD for adding driver details<br>
+DDD for deleting driver details<br>
+UDD for update driver details<br>
+VCT for viewing the rally cross standings table<br>
+SRR for simulating a random race<br>
+VRL for viewing race table sorted according to the date<br>
+STF to save the current data to a text file<br>
+RFF to load data from the saved text file<br>
+ESC to exit the program
